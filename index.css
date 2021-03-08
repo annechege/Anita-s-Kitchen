@@ -1,0 +1,19 @@
+
+.wrapper{
+  background :url(assets/backgrounds/landing.jpg) no-repeat;
+  background-position: center;
+  font-size: 20px;
+}
+.logo{
+  text-align: center;
+  color: white;
+}
+button{
+background-color: tomato;
+}
+
+.food{
+  margin-top: 0px;
+  padding: 0px;
+}
+    
