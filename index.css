@@ -18,8 +18,15 @@ background-color: tomato;
  text-align: center;
  
 }
-food{
-  grid-row: span 2 /auto;
+.food{
+  grid-row: span 2 / auto;
+  width: 25px;
+  
 }
+.break{
+  text-align: center;
+  color: ;
+}
+
   
     
